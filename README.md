@@ -34,4 +34,5 @@ You will get around 384GB to download any torrent you want.
 
 ### TODO
 Extract compressed files that are password protected.
+Add more files extensions support.
 
