@@ -17,11 +17,12 @@ Simple notebook to extract compressed files
 <a href="https://colab.research.google.com/github/death-angel-141/Torrent-to-Gdrive-Leecher/blob/master/extract_files.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Tutorial
-Click the badge which says 'Open in Colab' and follow directions there.
+Click the badge which says **Open in Colab** and follow directions there.
 
 ### What is the purpose of it?
-1. Because of Google Servers' speed, I downloaded 12GB of a file and the average speed was 60MBPS.
-2. Because it is in the cloud, by that I mean I can access it anywhere on my phone, tablet, etc without copying files around
+1. Because of Google Servers' speed,better download speeds than other torrent clients.
+2. Because it is in the cloud, by that I mean I can access it anywhere on my phone, tablet, etc without copying files around.
+3. Moreover who doesn't love to  leech torrents at such speeds. (Please dont over use this,would get a cooldown due to excessive use for sometime)
 
 ### Frequently Asked Questions
 1. **How to get more disk space**:
@@ -30,4 +31,8 @@ Click the badge which says 'Open in Colab' and follow directions there.
 You will get around 384GB to download any torrent you want.
 
 2. **Downloading missing files without re-downloading whole torrent**: If somehow some files are missing try to re-download torrent. Fastresume will check files.
+
+### TODO
+
+Using PATool, extract compressed files that are password protected.
 
