@@ -17,7 +17,7 @@ Simple notebook to extract compressed files
 <a href="https://colab.research.google.com/github/death-angel-141/Torrent-to-Gdrive-Leecher/blob/master/extract_files.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Tutorial
-Click the badge which says **Open in Colab** and follow directions there.
+Click the button which says **Open in Colab** and follow directions there.
 
 ### What is the purpose of it?
 1. Because of Google Servers' speed,better download speeds than other torrent clients.
