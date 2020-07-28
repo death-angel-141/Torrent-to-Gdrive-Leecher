@@ -33,6 +33,5 @@ You will get around 384GB to download any torrent you want.
 2. **Downloading missing files without re-downloading whole torrent**: If somehow some files are missing try to re-download torrent. Fastresume will check files.
 
 ### TODO
-
-Using PATool, extract compressed files that are password protected.
+Extract compressed files that are password protected.
 
