@@ -5,7 +5,7 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 
 <sub>Source: https://research.google.com/colaboratory/faq.html</sub>
 
-# Torrent To Google Drive Downloader
+# Torrent To Google Drive Leecher
 Simple notebook to leech torrent files to Google Drive using Google Colab.
 
 <a href="https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
